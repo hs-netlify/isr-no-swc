@@ -1,6 +1,4 @@
 [functions]
   included_files = [
-    "!node_modules/@swc/core-linux-x64-gnu/swc.linux-x64-gnu.node",
-    "!node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node",
-    "!node_modules/sharp/**/*"
+        '!node_modules/sharp/vendor/8.12.2/darwin-arm64v8/lib/libvips-cpp.42.dylib'
     ]
