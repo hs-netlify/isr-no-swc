@@ -1,5 +1,5 @@
 [functions]
   included_files = [
     "!node_modules/@swc/**/*",
-    "!node_modeuls/sharp/**/*
+    "!node_modeuls/sharp/**/*"
     ]
