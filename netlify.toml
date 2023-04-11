@@ -1,6 +1,6 @@
 [functions]
   included_files = [
-    "!node_modules/@swc/core-linux-x64-gnu/**/*",
-    "!node_modules/@swc/core-linux-x64-musl/**/*",
-    "!node_modules/sharp/**/*"
+    "!node_modules/@swc/core-linux-x64-gnu/swc.linux-x64-gnu.node",
+    "!node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node",
+    "!node_modules/sharp/vendor/8.12.2/linux-x64/lib/libvips-cpp.so.42"
     ]
