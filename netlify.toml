@@ -1,4 +1,4 @@
 [functions]
   included_files = [
-        '!node_modules/sharp/vendor/8.12.2/darwin-arm64v8/lib/libvips-cpp.42.dylib'
+        "!node_modules/sharp/vendor/8.12.2/darwin-arm64v8/lib/libvips-cpp.42.dylib"
     ]
